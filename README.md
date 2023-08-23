@@ -1,7 +1,7 @@
 
 <div align="center">
-  <img width="30" height="30" src="https://komarev.com/ghpvc/?username=FelipeTakiguchi"/>
+  <img width="150" height="20" src="https://komarev.com/ghpvc/?username=FelipeTakiguchi"/>
   <br>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeTakiguchi)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeTakiguchi)](https://github.com/anuraghazra/github-readme-stats)
+  <img width="300" height="400" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeTakiguchi)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img width="300" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeTakiguchi"/>
 </div>
