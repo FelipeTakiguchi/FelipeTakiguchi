@@ -1,15 +1,15 @@
 # Wellcome to my profile :)
 
 <div align="center">
-  Thanks for the visit! <3
+  <p>Thanks for the visit! <3</p>
   <img width="150" height="30" src="https://komarev.com/ghpvc/?username=FelipeTakiguchi"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img align="left" width="400" height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipeTakiguchi"/>
-  <img align="right" width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=FelipeTakiguchi&show_icons=true&theme=radical"/>
+  <img width="400" height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipeTakiguchi"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeTakiguchi&show_icons=true&theme=radical"/>
 </div>
 
 <br>
