@@ -13,7 +13,7 @@
 </div>
 
 <br>
-<img align=center width="700" src="https://github-profile-trophy.vercel.app/?username=FelipeTakiguchi"/>
+<img align=center width="500" src="https://github-profile-trophy.vercel.app/?username=FelipeTakiguchi"/>
 <br>
 
 <div align="center">
