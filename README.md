@@ -1,5 +1,13 @@
 # Wellcome to my profile :)
 
+<div align="center">
+  <p>Thanks for the visit! <3</p>
+  <img width="150" height="30" src="https://komarev.com/ghpvc/?username=FelipeTakiguchi"/>
+</div>
+
+<br>
+
+## Developer.json
 ```
 {
   "fullName": "Felipe Naoto Takiguchi",
@@ -14,12 +22,7 @@
 }
 ```
 
-<div align="center">
-  <p>Thanks for the visit! <3</p>
-  <img width="150" height="30" src="https://komarev.com/ghpvc/?username=FelipeTakiguchi"/>
-</div>
-
-<br>
+## My Scores
 
 <div align="center">
   <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipeTakiguchi"/>
