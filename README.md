@@ -1,7 +1,7 @@
 # Wellcome to my profile :)
 
 <div align="center">
-  <img width="150" height="20" src="https://komarev.com/ghpvc/?username=FelipeTakiguchi"/>
+  <img width="150" height="30" src="https://komarev.com/ghpvc/?username=FelipeTakiguchi"/>
   <br>
 </div>
 
