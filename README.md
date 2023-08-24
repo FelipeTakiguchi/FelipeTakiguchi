@@ -1,5 +1,9 @@
 # Wellcome to my profile :)
 
+```
+  Developer: Felipe Naoto Takiguchi
+```
+
 <div align="center">
   <p>Thanks for the visit! <3</p>
   <img width="150" height="30" src="https://komarev.com/ghpvc/?username=FelipeTakiguchi"/>
@@ -15,7 +19,7 @@
 <br>
 
 <div align="center">
-  <img width="600" height="300" src="https://github-profile-trophy.vercel.app/?username=FelipeTakiguchi"/>
+  <img width="600" height="220" src="https://github-profile-trophy.vercel.app/?username=FelipeTakiguchi"/>
 </div>
 
 <br>
