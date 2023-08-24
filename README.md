@@ -8,8 +8,8 @@
 <br>
 
 <div align="center">
-  <img width="400" height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipeTakiguchi"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeTakiguchi&show_icons=true&theme=radical"/>
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipeTakiguchi"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=FelipeTakiguchi&show_icons=true&theme=radical"/>
 </div>
 
 <br>
