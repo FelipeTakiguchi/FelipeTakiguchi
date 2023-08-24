@@ -13,9 +13,14 @@
 </div>
 
 <br>
+<br>
+<br>
+
 <div align="center">
   <img width="500" src="https://github-profile-trophy.vercel.app/?username=FelipeTakiguchi"/>
 </div>
+
+<br>
 <br>
 
 <div align="center">
