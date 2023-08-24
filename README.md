@@ -13,7 +13,7 @@
 </div>
 
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=FelipeTakiguchi)](https://github.com/ryo-ma/github-profile-trophy)
+<img align=center width="700" src="https://github-profile-trophy.vercel.app/?username=FelipeTakiguchi"/>
 <br>
 
 <div align="center">
