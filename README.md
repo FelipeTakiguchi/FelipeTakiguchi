@@ -14,5 +14,5 @@
 <br>
 
 <div align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FelipeTakiguchi&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+  <img align="left" width="350" height="280" src="http://github-readme-streak-stats.herokuapp.com?user=FelipeTakiguchi&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>
 </div>
