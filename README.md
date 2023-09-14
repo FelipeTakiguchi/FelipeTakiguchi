@@ -1,4 +1,4 @@
-# Wellcome to my profile :)
+# Welcome to my profile :)
 
 <div align="center">
   <p>Thanks for the visit! <3</p>
@@ -11,8 +11,8 @@
 ```
 {
   "fullName": "Felipe Naoto Takiguchi",
-  "age": 20,
-  "startedAt": "February 19, 2018",
+  "dateOfBirth": "12/02/2002",
+  "startedAt": "02/19/2018",
   "favoriteLanguages": [
     "C#",
     "Python",
