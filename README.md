@@ -30,13 +30,3 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img width="600" height="220" src="https://github-profile-trophy.vercel.app/?username=FelipeTakiguchi"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img width="550" height="200" src="http://github-readme-streak-stats.herokuapp.com?user=FelipeTakiguchi&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>
-</div>
